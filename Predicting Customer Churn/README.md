@@ -1,0 +1,1 @@
+This is a simple predicting customer churn project created for learning purposes with the ability to choose parameters in an interactive way, if you want to try the interactivity you will need to clone the project and run it yourself because github preview doesn't support the interactivity.
